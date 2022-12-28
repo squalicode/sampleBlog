@@ -286,8 +286,7 @@ nav details ol,
 }
 
 header a,
-.nav-pagination a
-.post-wrapper footer a {
+.nav-pagination a {
     text-decoration: none;
 }
 
